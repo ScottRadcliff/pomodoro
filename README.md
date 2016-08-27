@@ -12,6 +12,9 @@ There are two dependencies.
 
 With those two dependencies met, clone the repository and run `ruby app.rb` from the root directory.
 
+`git clone git@github.com:ScottRadcliff/pomodoro.git`
+`cd pomodoro`
+`ruby app.rb`
 
 
 
