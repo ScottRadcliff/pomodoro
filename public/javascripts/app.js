@@ -52,6 +52,7 @@ function reduceTime() {
       if (minutes == "0") {
         resetTimer();
         clear();
+        alert('Take a break');
         return;
       } else {
         minutes = parseInt(minutes) - 1;
